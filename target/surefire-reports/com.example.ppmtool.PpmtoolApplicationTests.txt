@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.ppmtool.PpmtoolApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.083 s - in com.example.ppmtool.PpmtoolApplicationTests
